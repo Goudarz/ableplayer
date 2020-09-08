@@ -1,0 +1,77 @@
+WEBVTT
+kind: captions
+lang: fa
+
+NOTE This VTT file includes a few extras:
+- Meta data at the top (lines 2 and 3)
+- The current comment block, identified with NOTE and surrounded by spaces
+- cue settings at the end of the first timestamp
+- A cue span at the start of the second cue payload
+- (in this case, a "voice span" <v> identifying the speaker)
+- A WebVTT cue settings list after the timestamp at 39.132
+- Currently AblePlayer does not support these extra features
+- but the parser needs to be able to filter them out
+-
+- Added on April 1, 2015 for testing purposes (these are both valid):
+- A cue block with no content
+- Multiple line breaks between some cue blocks
+-
+- More info in the WebVTT spec (still evolving):
+- http://dev.w3.org/html5/webvtt
+
+00:00:00.429 --> 00:00:09.165
+[ موسیقی ]
+
+00:00:09.165 --> 00:00:10.792
+<v Narrator> شما این افراد را می‌خواهید.
+
+00:00:10.792 --> 00:00:13.759
+آن‌ها محصولات شما را <b>سفارش</b> می‌دهند،
+برای خدمات خود <b>ثبت نام</b> کنید،
+
+00:00:13.759 --> 00:00:16.627
+در کلاس‌های خود <b>ثبت نام</b> کنید،
+نظرات خود را <b>بخوانید</b>،
+
+00:00:16.627 --> 00:00:18.561
+و فیلم‌های خود را <b>تماشا</b> کنید.
+
+00:00:18.561 --> 00:00:24.165
+شما هرگز آن‌ها را نخواهید دید، 
+اما آن‌ها شما را می‌شناسند.
+
+00:00:24.165 --> 00:00:25.891
+يا شايدم نه.
+
+00:00:25.891 --> 00:00:30.396
+<c.quotable>بازدیدکنندگان وب‌سایت شما جمع
+ بی‌چهره‌ای از کلیک‌های یکسان موس نیست</c>
+
+00:00:30.396 --> 00:00:32.363
+اما یک جامعه پر جنب
+ و جوش از افراد است
+
+00:00:32.363 --> 00:00:35.297
+با سلیقه‌های مختلف،
+سبک‌ها و توانایی‌ها
+
+00:00:35.297 --> 00:00:36.900
+این شامل افراد دارای کم‌توانی است.
+
+00:00:39.132 --> 00:00:41.000 position:10%,start align:start size:35%
+<v Terrill> این برای طراحان و توسعه‌دهندگان
+ وب مهم است
+
+00:00:41.000 --> 00:00:45.500
+درک کنند که آنچه در حال حاضر
+ در کامپیوتر خود می‌بینند،
+
+00:00:45.500 --> 00:00:49.264
+با وضوح ، با مرورگر
+ و سیستم‌عامل آن‌ها
+
+00:00:49.264 --> 00:00:52.000
+قرار نیست لزوما همان
+ چیزی باشد که دیگران می‌بینند.
+
+
